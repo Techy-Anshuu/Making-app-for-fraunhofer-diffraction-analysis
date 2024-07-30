@@ -1,5 +1,5 @@
-# Making-app-for-fraunhofer-diffraction-analysis
-# in this app we see the fraunhofer diffraction pattern of some apertures we camn also se the 2d plot .
+# An-app-for-fraunhofer-diffraction-analysis
+#In this app, we can view the Fraunhofer diffraction pattern of various apertures, as well as see the corresponding 2D plot.
 classdef Diffraction_App < matlab.apps.AppBase
 
     % Properties that correspond to app components
